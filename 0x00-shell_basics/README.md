@@ -10,3 +10,5 @@
 9.rm -r /tmp/my_first_directory deletes the directory my_first_directory
 10.cd .. changes the working directory to the previous one
 11.ls -al .. /boot lists all files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+12.file prints the type of the file named iamafile
+13.ln -s /bash/ls __ls__ creates a symbolic link in the current working directory 0x00-shell_basics
