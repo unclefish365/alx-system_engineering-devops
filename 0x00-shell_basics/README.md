@@ -7,3 +7,4 @@
 6.mkdir /tmp/my_first_directory creates a directory named my_first_directory in the /tmp/ directory
 7.mv betty /tmp/ /tmp/my_first_directory moves the file betty from /tmp/ to /my_first_directory
 8.rm /tmp/my_first_directory/betty deletes the file betty
+9.rm -r /tmp/my_first_directory deletes the directory my_first_directory
