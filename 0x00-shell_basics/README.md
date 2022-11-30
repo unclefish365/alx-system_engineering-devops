@@ -8,3 +8,5 @@
 7.mv betty /tmp/ /tmp/my_first_directory moves the file betty from /tmp/ to /my_first_directory
 8.rm /tmp/my_first_directory/betty deletes the file betty
 9.rm -r /tmp/my_first_directory deletes the directory my_first_directory
+10.cd .. changes the working directory to the previous one
+11.ls -al .. /boot lists all files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
