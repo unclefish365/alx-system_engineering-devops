@@ -5,4 +5,5 @@
 4.ls -al displays current directory contents including hidden files
 5.ls -aln displays current directory contents in long format with user and grouup IDs displayed numerically and hidden files (starting with .)
 6.mkdir /tmp/my_first_directory creates a directory named my_first_directory in the /tmp/ directory
-7.
+7.mv betty /tmp/ /tmp/my_first_directory moves the file betty from /tmp/ to /my_first_directory
+8.rm /tmp/my_first_directory/betty deletes the file betty
